@@ -1,0 +1,8 @@
+This Python project generates QR codes for any text or URL using the qrcode library. You can customize the size, color, and border of the QR code, and save it as an image file.
+
+Features 🌟
+✅ Generate QR codes for URLs, text, or any data
+✅ Customizable QR code size and border 
+✅ Save QR codes as PNG images
+✅ Simple and easy-to-use script 
+✅ Easy to link any source and highly accessible
