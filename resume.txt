@@ -1,0 +1,11 @@
+Name: Monika
+Email: monika9899803392@gmail.com
+Phone: 9319559215
+
+Education:
+Bachelors of Computer Application, Gurugram University, 2024
+
+
+
+Skills:
+Python, C, Java, C#, HTML, CSS, Visual Basic, knowledge of operating system

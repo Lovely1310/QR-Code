@@ -1,0 +1,36 @@
+# a = (1,"rohan" ,45, 4799, 389.9, True)
+# print(a)
+# no = a.count(45)
+# print(no)
+# i = a.index("rohan")
+# print(i)
+# print(len)
+# fruits =  []
+# f1 = input("enter fruit name: ")
+# fruits.append(f1)
+# f2 = input("enter fruit name: ")
+# fruits.append(f2)
+# f3 = input("enter fruit name: ")
+# fruits.append(f3)
+# f4 = input("enter fruit name: ")
+# fruits.append(f4)
+# print(fruits)
+
+# Marks= []
+# sub1 =int(input("enter maths marks"))
+# Marks.append(sub1)
+# sub2 =int(input("enter hindi marks"))
+# Marks.append(sub2)
+# sub3 =int(input("enter chemistry marks"))
+# Marks.append(sub3)
+# sub4 = int(input("enter english marks"))
+# Marks.append(sub4)
+# sub5 =int(input("enter cse marks"))
+# Marks.append(sub5)
+# Marks.sort()
+# print(Marks)
+
+a = [34, 256, 78, 90]
+# [print(sum(a))]
+n = a.count(0)
+print(n)
